@@ -68,3 +68,4 @@ $accept_sal_annexure = $data['accept_sal_annexure'];
 
 
 	<?php include('footer.php'); ?>
+<?php echo "Hello, World!" ?>
